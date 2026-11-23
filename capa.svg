@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="228" viewBox="0 0 1080 228" role="img" aria-labelledby="title">
+  <title id="title">Samuel Omena Simões — Desenvolvimento web</title>
+  <rect width="1080" height="228" rx="18" fill="#102827"/>
+  <g fill="none" stroke="#3a6860" stroke-width="2">
+    <path d="M755 228 928 0m-116 228L985 0m-116 228L1042 0m-116 228L1099 0"/>
+    <path d="m838 0 173 228m-116-228 172 228m-116-228 129 171"/>
+  </g>
+  <circle cx="925" cy="115" r="7" fill="#cbf790"/>
+  <rect x="55" y="50" width="44" height="5" rx="2" fill="#cbf790"/>
+  <text x="52" y="128" fill="#f1f6ef" font-family="Segoe UI,Arial,sans-serif" font-weight="650" font-size="65">Samuel Omena Simões</text>
+  <text x="56" y="175" fill="#cbdfd7" font-family="Segoe UI,Arial,sans-serif" font-size="27">Desenvolvimento web</text>
+</svg>
