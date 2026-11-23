@@ -2,6 +2,13 @@
 
 Desenvolvo aplicações web para empresas. Gosto de trabalhar na parte que conecta o site à equipe que vai usar o sistema, seja para receber um pedido de coleta ou acompanhar uma solicitação de matrícula.
 
+## Linguagens
+
+| Projeto | Linguagens usadas |
+| --- | --- |
+| Lisboa Simões | `TypeScript` · `CSS` · `JavaScript` · `HTML` |
+| Top Fit | `TypeScript` · `JavaScript` · `CSS` |
+
 ## Projetos selecionados
 
 ### Lisboa Simões · Transporte e resíduos
